@@ -15,7 +15,7 @@
   },
   "author": "Branden Horiuchi <bhoriuchi@gmail.com>",
   "dependencies": {
-    "activedirectory2": "git+https://github.com/jsumners/node-activedirectory.git",
+    "activedirectory2": "git+https://github.com/Linkurious/node-activedirectory2.git",
     "passport": "^0.7.0"
   },
   "devDependencies": {
